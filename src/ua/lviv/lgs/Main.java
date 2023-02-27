@@ -14,5 +14,6 @@ public class Main {
         su27.nuclearStrike(); //Ядерний удар
         su27.turboAcceleration(); //Турбоприскореня
         su27.landing(); //Посадка
+
     }
 }
