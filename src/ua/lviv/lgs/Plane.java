@@ -36,7 +36,7 @@ public abstract class Plane {
         double min = 0;
         double max = 1000;
         double w = (Math.random()*(max-min+1)+min);
-        System.out.println("Taking of. The plane with full tanks will pass : " + w + " km");
+        System.out.println("Taking of. The plane with full tanks will pass : " + w + "m");
     }
 
     void landing() {
